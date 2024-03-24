@@ -17,7 +17,10 @@ Task Automation Tool Documentation
         2. Update the file path in the script to point to your Excel spreadsheet:
             "workbook = openpyxl.load_workbook('produtos_ficticios.xlsx')"
 
-        3. Run the script. Click on the play button.
+        3. Open the exemple website: 
+            "https://cadastro-produtos-devaprender.netlify.app/index.html"
+
+        4. Run the script. Click on the play button.
 
     Functionality
         1. Copying and Pasting: 
